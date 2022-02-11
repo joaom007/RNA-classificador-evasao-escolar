@@ -1,4 +1,4 @@
-# RNA classificador de evasão escolar.
+# RNA modelo de evasão escolar.
 
 **Código licenciado com GNU General Public License v3.0, para uso acadêmico ou fornecimento de ferramentas para instituições públicas sem que haja fins lucrativos.**
 
