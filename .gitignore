@@ -33,10 +33,14 @@
 .history
 .ionide
 
-# End of https://www.toptal.com/developers/gitignore/api/git,visualstudiocode
-
 *keras*
 *.ini
 *.csv
 *.xlsx
 *.xls
+*.png
+*.tmp
+*.sav
+*.py
+*
+!microsservico-evasao.py
