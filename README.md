@@ -11,6 +11,8 @@ de São Paulo para a obtenção do título de Especialista em Desenvolvimento We
 Tema: Aprendizado de Máquina e a Evasão Escolar - Microsserviço para análise 
 e predição de evasão no IFSP câmpus Itapetininga.
 
+Link do TCC: https://suap.ifsp.edu.br/media/edu/projeto_final/TCC_Jo%C3%A3o_Marcos.pdf
+
 * Criado Jul 2021
 * Autor: João Marcos, 
 * github: https://github.com/joaom007
